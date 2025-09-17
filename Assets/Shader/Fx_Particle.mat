@@ -43,8 +43,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _Disslove: -1
-    - _Dissolve: 0
-    - _Emissive: 30
+    - _Emissive: 30.3
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors: []

@@ -426,7 +426,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "00cf9d75c521481f87c6f0dd9b1b2a2a",
     "m_Id": 0,
-    "m_DisplayName": "Dissolve",
+    "m_DisplayName": "Disslove",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -1709,10 +1709,10 @@
     "m_Guid": {
         "m_GuidSerialized": "4a0405a8-f471-4251-9f15-d663b509a529"
     },
-    "m_Name": "Dissolve",
+    "m_Name": "Disslove",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Dissolve",
-    "m_DefaultReferenceName": "_Dissolve",
+    "m_RefNameGeneratedByDisplayName": "Disslove",
+    "m_DefaultReferenceName": "_Disslove",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
